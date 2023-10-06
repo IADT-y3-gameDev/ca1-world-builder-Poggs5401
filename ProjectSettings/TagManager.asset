@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - CinemachineTarget
+  - coinCount
   layers:
   - Default
   - TransparentFX
